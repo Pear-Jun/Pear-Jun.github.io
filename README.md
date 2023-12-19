@@ -1,6 +1,6 @@
 # ViLMN: A Large-scale Dataset for Quadrupedal Robot Vision-Language Manipulation and Navigation
 
-**Contributors**: Dhruv Shah, Ajay Sridhar, Nitish Dashora, Catherine Glossop, Kyle Stachowicz, Arjun Bhorkar, Kevin Black, Noriaki Hirose, Sergey Levine
+**Contributors**: Yukun Wu, Lijun, Zhang Min, Pengxiang Ding, Han Zhao, ZhimingZhang, Zhitao Wang, Zhenyu Wei, Donglin Wang 
 
 _Berkeley AI Research_
 
