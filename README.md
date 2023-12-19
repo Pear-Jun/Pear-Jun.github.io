@@ -2,7 +2,7 @@
 
 **Contributors**: Yukun Wu, Lijun, Zhang Min, Pengxiang Ding, Han Zhao, ZhimingZhang, Zhitao Wang, Zhenyu Wei, Donglin Wang 
 
-_Berkeley AI Research_
+_Westlake University Machine Intelligence Laboratory_
 
 [Project Page](https://general-navigation-models.github.io) | [Citing](https://github.com/robodhruv/visualnav-transformer#citing) | [Pre-Trained Models](https://drive.google.com/drive/folders/1a9yWR2iooXFAqjQHetz263--4_2FFggg?usp=sharing)
 
